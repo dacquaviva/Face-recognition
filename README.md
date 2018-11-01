@@ -1,2 +1,2 @@
 # Face-recognition
-Face recognition using matrix and tensor decomposition.
+Face recognition using matrix(Eigenfaces) and tensor decomposition.
